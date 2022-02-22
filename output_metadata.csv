@@ -1,0 +1,22 @@
+output,description,unit
+day,time_unit,day
+Ageclass_0-9_mean,Mean of total deaths in ages 0-9 over a 2 month period.,deaths
+Ageclass_0-9_var,Mean of total deaths in ages 0-9 over a 2 month period.,deaths squared
+Ageclass_10-19_mean,Mean of total deaths in ages 10-19 over a 2 month period.,deaths
+Ageclass_10-19_var,Mean of total deaths in ages 10-19 over a 2 month period.,deaths squared
+Ageclass_20-29_mean,Mean of total deaths in ages 20-29 over a 2 month period.,deaths
+Ageclass_20-29_var,Mean of total deaths in ages 20-29 over a 2 month period.,deaths squared
+Ageclass_30-39_mean,Mean of total deaths in ages 30-39 over a 2 month period.,deaths
+Ageclass_30-39_var,Mean of total deaths in ages 30-39 over a 2 month period.,deaths squared
+Ageclass_40-49_mean,Mean of total deaths in ages 40-49 over a 2 month period.,deaths
+Ageclass_40-49_var,Mean of total deaths in ages 40-49 over a 2 month period.,deaths squared
+Ageclass_50-59_mean,Mean of total deaths in ages 50-59 over a 2 month period.,deaths
+Ageclass_50-59_var,Mean of total deaths in ages 50-59 over a 2 month period.,deaths squared
+Ageclass_60-69_mean,Mean of total deaths in ages 60-69 over a 2 month period.,deaths
+Ageclass_60-69_var,Mean of total deaths in ages 60-69 over a 2 month period.,deaths squared
+Ageclass_70-79_mean,Mean of total deaths in ages 70-79 over a 2 month period.,deaths
+Ageclass_70-79_var,Mean of total deaths in ages 70-79 over a 2 month period.,deaths squared
+Ageclass_80-89_mean,Mean of total deaths in ages 80-89 over a 2 month period.,deaths
+Ageclass_80-89_var,Mean of total deaths in ages 80-89 over a 2 month period.,deaths squared
+Ageclass_90-99_mean,Mean of total deaths in ages 90-99 over a 2 month period.,deaths
+Ageclass_90-99_var,Mean of total deaths in ages 90-99 over a 2 month period.,deaths squared
